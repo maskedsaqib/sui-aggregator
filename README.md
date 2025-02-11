@@ -1,1 +1,1 @@
-# Sui Aggregator\n\nA TypeScript implementation for interacting with Sui blockchain aggregators.
+# Sui Aggregator\n\nA TypeScript implementation for interacting with Sui blockchain aggregators.\n\nThis repository contains a TypeScript-based solution for integrating with Sui blockchain aggregators, providing efficient token swapping and liquidity management capabilities.
