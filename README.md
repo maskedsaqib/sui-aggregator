@@ -21,8 +21,8 @@ This repository implements a token swap script on the SUI mainnet using the Cetu
 1. **Clone the Repository**
 
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/maskedsaqib/sui-aggregator.git
+   cd sui-aggregator
    ```
 
 2. **Install Dependencies**
